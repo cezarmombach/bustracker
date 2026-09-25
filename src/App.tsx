@@ -431,7 +431,7 @@ export default function App() {
         <div style={{ display: 'inline-flex', alignItems: 'center', gap: 12, background: 'white', borderRadius: 16, padding: '12px 24px', boxShadow: '0 4px 20px rgba(0,0,0,0.08)', marginBottom: 14 }}>
           <span style={{ fontSize: 24 }}>🚌</span>
           <span style={{ fontSize: 22, fontWeight: 800, color: C.text, letterSpacing: '-0.3px' }}>BusTracker</span>
-          <span style={{ fontSize: 11, fontWeight: 700, color: C.brand, background: 'rgba(0,200,83,0.1)', borderRadius: 6, padding: '3px 8px', border: '1px solid rgba(0,200,83,0.2)' }}>App Mockup</span>
+          <span style={{ fontSize: 11, fontWeight: 700, color: C.brand, background: 'rgba(0,200,83,0.1)', borderRadius: 6, padding: '3px 8px', border: '1px solid rgba(0,200,83,0.2)' }}>Versão Protótipo</span>
         </div>
         <p style={{ fontSize: 14, color: C.textSub, margin: 0 }}>6 telas · iPhone 14 · Tempo real</p>
       </div>
