@@ -1,5 +1,7 @@
 {
-  "description": "Track real-time bus arrivals with an intuitive interface, providing users with timely updates, notifications, and historical travel data for enhanced commuting.",
+  "title": "BusTracker",
+  "lang": "pt-BR",
+  "description": "Acompanhe em tempo real a chegada dos ônibus, com notificações, alertas e histórico de viagens.",
   "robots": {
     "index": false
   },
