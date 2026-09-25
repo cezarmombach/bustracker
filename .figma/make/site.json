@@ -1,0 +1,10 @@
+{
+  "description": "Track real-time bus arrivals with an intuitive interface, providing users with timely updates, notifications, and historical travel data for enhanced commuting.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
